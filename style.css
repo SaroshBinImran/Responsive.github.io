@@ -1,0 +1,177 @@
+*{
+    margin:0;
+    padding:0;
+}
+.nav-item a{
+    color:white !important;
+}
+ .nav-item .active{
+    color:black !important;
+    border-bottom:1px solid black;
+    font-weight: bold;
+} 
+
+
+.navbar .navbar-brand{
+    font-size:30px;
+    margin-left:25px;
+    color:white !important;
+}
+ .nav-link:hover {
+    border-bottom:1px solid black;
+   
+    
+}
+
+a.nav-link{
+    padding:3px;
+}
+
+/*CAROUSEL*/
+.carouselSize{
+    max-width:100%;
+    
+}
+.getstarted{
+    padding: 6px;
+    background-color: white;
+    border-radius: 34px;
+}
+.carousel-caption{
+top:207hg\
+jmk\\\ghhhhxssssssssssssssssspx;
+}
+.carousel-caption h3{
+    line-height:60px;
+    font-size:40px;
+}
+.carousel-caption p{
+    font-size:20px;
+    line-height:50px;
+}
+.carousel-caption a{
+    
+    
+    border-radius: 34px;
+    transition: all .3s ease;
+}
+.carousel-caption a:hover{
+    text-decoration: none;
+    padding: 8px;
+}
+/*CAROUSEL ended*/
+
+
+.content h4{
+    
+    font-weight: bold;
+    margin-top:30px;
+    font-size: 25px;
+    color: rgb(53, 81, 135);
+    position:relative;
+    
+
+}
+.content h4::after{
+    content:"";
+    display:block;
+     /*position: absolute;
+     top:34px;
+     left:847px;*/
+     margin-left:49%;
+    width:30px;
+    height:3px;
+    background-color:rgb(87, 127, 206);
+    
+}
+.content p{
+    margin:20px auto 10px;
+    text-align: center;
+}
+.content a{
+    
+    border-radius:34px;
+}
+
+/**/
+.fal{
+    font-size:40px;
+    border-width: 3px !important;
+}
+
+.services h4::after{
+    content:"";
+    display:block;
+     position: absolute;
+     left:847px;
+    width:30px;
+    height:3px;
+    top:34px;
+    background-color:rgb(87, 127, 206);
+    
+}
+.rounded-right{
+    border-radius:34px !important;
+}
+.divcolor{
+    background-color:#EEEEEE;
+
+}
+.icon{
+    color:white;
+    font-size:30px;
+    margin-top:20px;
+    border-radius:34px;
+}
+.num{
+    font-size:30px;
+    font-weight:bold;
+}
+.serv{
+    font-size:25px;
+    font-weight:bold;
+}
+.portfolioHeading::after{
+    content:"";
+    display:block;
+    width:30px;
+    height:3px;
+    margin-left:49%;
+    background-color:rgb(87, 127, 206);
+    
+
+}
+.imagegallery{
+    padding:0 !important;
+    margin:0 !important;
+}
+.owncolor{
+    background-color: black;
+}
+.logofooter{
+    font-size:40px;
+    font-weight: 700;
+    color:rgb(87, 127, 206);
+}
+.page{
+    writing-mode: horizontal-tb; 
+}
+.ownclass3{
+    line-height:5px;
+}
+h6{
+    display:inline-block;
+
+}
+.lastlogo::after{
+    content:"";
+    display:inline-block;
+    width:30px;
+    height:3px;
+    
+    background-color:black;
+    
+}
+.ownsize{
+    font-size:25px;
+}
